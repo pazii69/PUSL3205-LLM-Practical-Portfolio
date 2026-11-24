@@ -98,57 +98,7 @@ Intelligent-University-Assistant/
 
 *Note: Update the filenames and folders above to match the actual files in your repository.*
 
-## ⚙️ Installation and Setup
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
-```
-
-### 2. Navigate to the Project Folder
-
-```bash
-cd YOUR-REPOSITORY
-```
-
-### 3. Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 4. Configure Ollama
-
-Install Ollama from:
-
-https://ollama.com/
-
-Download the model used by your project:
-
-```bash
-ollama pull llama3.2:3b
-```
-
-### 5. Configure Google APIs
-
-To use Google Workspace integrations:
-
-1. Create a project in Google Cloud Console.
-2. Enable Google Calendar API.
-3. Enable Google Sheets API.
-4. Enable Google Docs API.
-5. Enable Gmail API.
-6. Configure OAuth credentials.
-7. Authenticate the application with the required permissions.
-
-Google credentials and tokens must be stored securely and must never be uploaded to GitHub.
-
-### 6. Run the Project
-
-Open the project notebook in Jupyter Notebook or Kaggle and execute the cells in the required order.
-
-Refer to the notebook for the current implementation and configuration instructions.
 
 ## 🔐 Security
 
