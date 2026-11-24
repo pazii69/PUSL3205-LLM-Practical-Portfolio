@@ -17,10 +17,6 @@ Welcome to my practical portfolio. Below are the laboratory activities completed
 | **Lab 05** | [RAG Pipeline](./Lab-05-RAG-Pipeline/) | LangChain, ChromaDB, Embeddings, PDF Ingestion | Baseline Q&A Outputs, Dynamic PDF Upload |
 | **Lab 06** | [AI Agents](./Lab-06-AI-Agents/) | ReAct Pattern, Tool Execution, SQLite Memory | Agent Thought Traces, Multi-tool Tests, Memory Demo |
 
-## Additional Documentation
-- [Final Reflection](./Final-Reflection.md) - Summary of practical knowledge and skills gained.
-- [GenAI Declaration](./GenAI-Declaration.md) - Declaration of AI tool usage (Assisted Work).
-
 ## Environment & Tools Used
 - **Platforms:** Google Colab, Kaggle Notebooks (T4 GPU)
 - **Languages:** Python 3
